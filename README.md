@@ -22,13 +22,14 @@ int main() {
 
 ```
 
-##
+#
 **<p align="center">
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/myrashenka) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/myroslawa) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/myroslawachrin) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/laikalabalalaika) </p>**
-
+```
+```
 ##
 **<p align="center">
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -67,8 +68,9 @@ int main() {
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 </p>**
-
+```
 ---
+#
 **<p align="center">
 [![](https://komarev.com/ghpvc/?username=myroslawa&icon=0&color=3)](https://visitcount.itsvg.in)
 </p>**
