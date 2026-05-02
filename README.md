@@ -12,10 +12,11 @@ myroslawachrin@gmail.com
 using namespace std;
 
 int main() {
-   cout << "I sometimes build awesome code to make my life easier." << endl;
+   cout << "I'll occasionally build awesome code to make my life easier." << endl;
    cout << "I want to automize everything & I like to solve problems I have to think about." << endl;
    cout << "I keep my code healthy by preventing entropy through refactors." << endl;
    cout << "I'll modestly contribute to technology, humanity, science and art." << endl;
+   cout << "Last but not least, I'm open to collab on projects." << endl;
    return 0;
 }
 
